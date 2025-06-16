@@ -9,4 +9,6 @@ git push -u origin main
 git remote add origin https://github.com/Getasew7/Dart.git
 git branch -M main
 git push -u origin main
-test
+
+
+rm -rf > a command to remove dir 
